@@ -2,7 +2,7 @@
 
 # <bitbar.title>BitCoin USD price at Poloniex</bitbar.title>
 # <bitbar.version>v1.0</bitbar.version>
-# <bitbar.author>deju.tu</bitbar.author>
+# <bitbar.author>deju.tu@gmail.com</bitbar.author>
 # <bitbar.author.github>deju</bitbar.author.github>
 # <bitbar.desc>Shows the last BitCoin price (in USD) on the Poloniex exchange</bitbar.desc>
 # <bitbar.image>https://raw.githubusercontent.com/deju/poloniex-bitbar/master/icons/btc.png</bitbar.image>
