@@ -1,5 +1,5 @@
 
-##BitBar for Poloniex.com in Mac OSX
+## BitBar for Poloniex.com in Mac OSX
 
 
 ### How to use
@@ -12,6 +12,11 @@
 - Enjoy it.
 
 
+### File functional description
+- `poloniex-usd-btc.1s.sh`    
+    BitCoin USD price at Poloniex, update every second
+- `poloniex-usd-eth.1s.sh`    
+    Ethereum USD price at Poloniex, update every second
 
 ### Donate
 - DigiByte Address: `DJWJpiNN95X7qQLQokUcKJcDAnJPLUJV47`
