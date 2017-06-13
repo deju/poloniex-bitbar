@@ -19,6 +19,8 @@
     Ethereum USD price at Poloniex, update every second
 - `poloniex-usd-nxt.1s.sh`
     NXT price at Poloniex, update every second
+- `poloniex-usd-etc.1s.sh`
+    ETC price at Poloniex, update every second
 
 ### Donate
 - DigiByte Address: `DJWJpiNN95X7qQLQokUcKJcDAnJPLUJV47`
